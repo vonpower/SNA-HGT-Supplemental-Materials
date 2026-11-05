@@ -4,7 +4,7 @@ Supplemental Materials for the manuscript
 
 **Proactive Risk Management of Labor Conflicts in Construction Projects: A Network-Informed Deep Learning Approach**
 
-Tao Feng, Haotian Fan, Wenjie Zhou, Chengyuan Yu, Hao Li
+
 
 ## Contents
 
@@ -15,6 +15,4 @@ Tao Feng, Haotian Fan, Wenjie Zhou, Chengyuan Yu, Hao Li
 - Text S2. Prospective evaluation on the deployment graph: design details
 - Tables S1–S11
 
-## Contact
 
-Tao Feng, Yunnan University of Finance and Economics (vonpower@ynufe.edu.cn)
